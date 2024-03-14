@@ -28,12 +28,12 @@ namespace Daten_Anzeigen_lassen
 
            
         }
-        string UP_TourGA = "J:\\LO-WF\\SQL-DATEN\\Kommissionierung\\PW_KF_LIS_UP_TOUR_GA.LIS";
-        string UP_TourKFZ = "J:\\LO-WF\\SQL-DATEN\\Kommissionierung\\PW_MS_LIS_UP_TOUR_KFZ.LIS";
-        string UP_AUFT_NB = "J:\\LO-WF\\SQL-DATEN\\Kommissionierung\\PW_MS_LIS_UP_AUFT_NB.LIS";
-        string UP_Alle = "J:\\LO-WF\\SQL-DATEN\\Kommissionierung\\PW_MS_LIS_UP_ALLE.LIS";
-        string UP_KFZ = "J:\\LO-WF\\SQL-DATEN\\Kommissionierung\\PW_MS_LIS_UP_KFZ.LIS";
-        string offenelink = "J:\\LO-WF\\SQL-DATEN\\Kommissionierung\\PW_KF_LIS_OFFENE_RCK.LIS";
+        string UP_TourGA = "ihr Pfad";
+        string UP_TourKFZ = "ihr Pfad";
+        string UP_AUFT_NB = "ihr Pfad";
+        string UP_Alle = "ihr Pfad";
+        string UP_KFZ = "ihr Pfad";
+        string offenelink = "ihr Pfad";
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
