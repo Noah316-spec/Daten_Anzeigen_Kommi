@@ -1,0 +1,38 @@
+C:\Users\nassnode\source\repos\Daten-Anzeigen lassen\Daten-Anzeigen lassen\bin\Debug\Daten-Anzeigen lassen.exe.config
+C:\Users\nassnode\source\repos\Daten-Anzeigen lassen\Daten-Anzeigen lassen\bin\Debug\Daten-Anzeigen lassen.exe
+C:\Users\nassnode\source\repos\Daten-Anzeigen lassen\Daten-Anzeigen lassen\bin\Debug\Daten-Anzeigen lassen.pdb
+C:\Users\nassnode\source\repos\Daten-Anzeigen lassen\Daten-Anzeigen lassen\obj\Debug\Daten-Anzeigen lassen.csproj.AssemblyReference.cache
+C:\Users\nassnode\source\repos\Daten-Anzeigen lassen\Daten-Anzeigen lassen\obj\Debug\MainWindow.g.cs
+C:\Users\nassnode\source\repos\Daten-Anzeigen lassen\Daten-Anzeigen lassen\obj\Debug\App.g.cs
+C:\Users\nassnode\source\repos\Daten-Anzeigen lassen\Daten-Anzeigen lassen\obj\Debug\Daten-Anzeigen lassen_MarkupCompile.cache
+C:\Users\nassnode\source\repos\Daten-Anzeigen lassen\Daten-Anzeigen lassen\obj\Debug\Daten-Anzeigen lassen_MarkupCompile.lref
+C:\Users\nassnode\source\repos\Daten-Anzeigen lassen\Daten-Anzeigen lassen\obj\Debug\MainWindow.baml
+C:\Users\nassnode\source\repos\Daten-Anzeigen lassen\Daten-Anzeigen lassen\obj\Debug\Daten-Anzeigen lassen.g.resources
+C:\Users\nassnode\source\repos\Daten-Anzeigen lassen\Daten-Anzeigen lassen\obj\Debug\Daten_Anzeigen_lassen.Properties.Resources.resources
+C:\Users\nassnode\source\repos\Daten-Anzeigen lassen\Daten-Anzeigen lassen\obj\Debug\Daten-Anzeigen lassen.csproj.GenerateResource.cache
+C:\Users\nassnode\source\repos\Daten-Anzeigen lassen\Daten-Anzeigen lassen\obj\Debug\Daten-Anzeigen lassen.csproj.CoreCompileInputs.cache
+C:\Users\nassnode\source\repos\Daten-Anzeigen lassen\Daten-Anzeigen lassen\obj\Debug\Daten-Anzeigen lassen.exe
+C:\Users\nassnode\source\repos\Daten-Anzeigen lassen\Daten-Anzeigen lassen\obj\Debug\Daten-Anzeigen lassen.pdb
+C:\Users\nassnode\source\repos\Daten-Anzeigen lassen\Daten-Anzeigen lassen\bin\Debug\ExtraTools.dll
+C:\Users\nassnode\source\repos\Daten-Anzeigen lassen\Daten-Anzeigen lassen\bin\Debug\MaterialDesignColors.dll
+C:\Users\nassnode\source\repos\Daten-Anzeigen lassen\Daten-Anzeigen lassen\bin\Debug\MaterialDesignExtensions.dll
+C:\Users\nassnode\source\repos\Daten-Anzeigen lassen\Daten-Anzeigen lassen\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\nassnode\source\repos\Daten-Anzeigen lassen\Daten-Anzeigen lassen\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\nassnode\source\repos\Daten-Anzeigen lassen\Daten-Anzeigen lassen\bin\Debug\MaterialDesignColors.pdb
+C:\Users\nassnode\source\repos\Daten-Anzeigen lassen\Daten-Anzeigen lassen\bin\Debug\MaterialDesignExtensions.xml
+C:\Users\nassnode\source\repos\Daten-Anzeigen lassen\Daten-Anzeigen lassen\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\nassnode\source\repos\Daten-Anzeigen lassen\Daten-Anzeigen lassen\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\nassnode\source\repos\Daten-Anzeigen lassen\Daten-Anzeigen lassen\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\nassnode\source\repos\Daten-Anzeigen lassen\Daten-Anzeigen lassen\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\nassnode\source\repos\Daten-Anzeigen lassen\Daten-Anzeigen lassen\bin\Debug\ar-DZ\MaterialDesignExtensions.resources.dll
+C:\Users\nassnode\source\repos\Daten-Anzeigen lassen\Daten-Anzeigen lassen\bin\Debug\cs\MaterialDesignExtensions.resources.dll
+C:\Users\nassnode\source\repos\Daten-Anzeigen lassen\Daten-Anzeigen lassen\bin\Debug\cs-CZ\MaterialDesignExtensions.resources.dll
+C:\Users\nassnode\source\repos\Daten-Anzeigen lassen\Daten-Anzeigen lassen\bin\Debug\de\MaterialDesignExtensions.resources.dll
+C:\Users\nassnode\source\repos\Daten-Anzeigen lassen\Daten-Anzeigen lassen\bin\Debug\fr\MaterialDesignExtensions.resources.dll
+C:\Users\nassnode\source\repos\Daten-Anzeigen lassen\Daten-Anzeigen lassen\bin\Debug\fr-FR\MaterialDesignExtensions.resources.dll
+C:\Users\nassnode\source\repos\Daten-Anzeigen lassen\Daten-Anzeigen lassen\bin\Debug\pt\MaterialDesignExtensions.resources.dll
+C:\Users\nassnode\source\repos\Daten-Anzeigen lassen\Daten-Anzeigen lassen\bin\Debug\pt-BR\MaterialDesignExtensions.resources.dll
+C:\Users\nassnode\source\repos\Daten-Anzeigen lassen\Daten-Anzeigen lassen\bin\Debug\Ru\MaterialDesignExtensions.resources.dll
+C:\Users\nassnode\source\repos\Daten-Anzeigen lassen\Daten-Anzeigen lassen\bin\Debug\ru-ru\MaterialDesignExtensions.resources.dll
+C:\Users\nassnode\source\repos\Daten-Anzeigen lassen\Daten-Anzeigen lassen\bin\Debug\uz-Latn-UZ\MaterialDesignExtensions.resources.dll
+C:\Users\nassnode\source\repos\Daten-Anzeigen lassen\Daten-Anzeigen lassen\obj\Debug\Daten-An.3C0BFCB6.Up2Date
